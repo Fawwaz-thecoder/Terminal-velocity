@@ -1,0 +1,5 @@
+{
+  "name": "Terminal Velocity",
+  "description": "A high-speed 3D driving game featuring an infinite procedurally generated city, dynamic traffic, and arcade physics.",
+  "requestFramePermissions": []
+}

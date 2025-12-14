@@ -633,7 +633,6 @@ const UIOverlay = () => {
             </h1>
             <div className="mb-8 flex flex-col gap-2">
                  <div className="text-xl sm:text-2xl text-green-400 font-mono">BANK: ${totalMoney.toLocaleString()}</div>
-                 <div className="text-lg sm:text-xl text-yellow-600 font-mono">HIGH SCORE: {highScore.toLocaleString()}</div>
             </div>
             
             <div className="flex flex-col gap-4">
